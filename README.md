@@ -29,21 +29,25 @@ You can generate these keys from your AWS Management Console under **IAM**.
 ### Installation
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/your-username/aws-s3-file-manager.git
+   git clone https://github.com/abhins0554/MyDriveProject.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd aws-s3-file-manager
    ```
 
 3. Install the dependencies:
+
    ```bash
    npm install
    ```
 
 4. Create a `.env.local` file in the root directory and add your AWS credentials:
+
    ```env
    AWS_ACCESS_KEY_ID=your-access-key-id
    AWS_SECRET_ACCESS_KEY=your-secret-access-key
@@ -52,6 +56,7 @@ You can generate these keys from your AWS Management Console under **IAM**.
    ```
 
 5. Start the development server:
+
    ```bash
    npm run dev
    ```
@@ -63,6 +68,19 @@ You can generate these keys from your AWS Management Console under **IAM**.
 To deploy this project, use any Next.js-compatible hosting platform like Vercel, AWS Amplify, or Netlify. If deploying to Vercel, simply connect your GitHub repository, and Vercel will handle the deployment.
 
 Ensure to set the necessary environment variables in your hosting platform's dashboard.
+
+## Keywords for SEO
+
+- AWS S3 file manager
+- Enhanced S3 console
+- Next.js file manager
+- S3 bucket management
+- File manager for AWS S3
+- Upload files to S3
+- S3 folder management
+- S3 file preview tool
+- Secure S3 file access
+- AWS S3 with Next.js
 
 ## Credits
 
