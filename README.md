@@ -69,7 +69,7 @@ To deploy this project, use any Next.js-compatible hosting platform like Vercel,
 
 Ensure to set the necessary environment variables in your hosting platform's dashboard.
 
-## Keywords for SEO
+## Keywords
 
 - AWS S3 file manager
 - Enhanced S3 console
